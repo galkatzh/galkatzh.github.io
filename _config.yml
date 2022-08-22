@@ -103,6 +103,8 @@ blog_name: bidual-space # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Musings about CS, ML and Mathematics
 permalink: /blog/:year/:title/
+#
+
 
 # Pagination
 pagination:
