@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Hebrew University of Jerusalem</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Hebrew University of Jerusalem</a>. 
 
 profile:
   align: right
