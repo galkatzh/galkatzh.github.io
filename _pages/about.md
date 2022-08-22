@@ -18,7 +18,7 @@ I research Machine Learning at the Hebrew University, as part of [Prof. Amit Dan
 My research is focused around Machine Learning Theory and (attempting at) creating mathematical foundations for deep learning.
 I'm also interested in Complex Systems, Kolmogorov Complexity, Audio Digital Signal Processing, Topological Data Analysis, and making things differentiable.
 
-Feel free to contact me via email to discuss or collaborate on any of my interests or ongoing projects.
+Feel free to contact me via email to discuss or collaborate on any of my interests.
 
   
 
