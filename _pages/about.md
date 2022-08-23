@@ -6,7 +6,7 @@ subtitle: <a href='#'>Hebrew University of Jerusalem</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: g.jpeg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
