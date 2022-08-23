@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I research Machine Learning at the Hebrew University, as part of [Prof. Amit Daniely's](https://www.cs.huji.ac.il/w~amitd/) lab.
 
-My research is focused around Machine Learning Theory and (attempting at) creating mathematical foundations for deep learning.
+My research is focused around Machine Learning Theory and (attempting at) creating mathematical foundations for Deep Learning.
 I'm also interested in Complex Systems, Kolmogorov Complexity, Audio Digital Signal Processing, Topological Data Analysis, and making things differentiable.
 
 Feel free to contact me via email to discuss or collaborate on any of my interests.
