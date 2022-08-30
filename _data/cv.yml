@@ -23,7 +23,14 @@
       description:
         - Research notions of complexity for classes of functions
         - Under Prof. Amit Daniely
-        - Graduated magna cum laude
+        - Graduated Magna Cum Laude
+     - title: Bsc
+      institution: Hebrew University of Jerusalem, Israel
+      year: 2018
+      description:
+        - Computer Science and Mathematics double major
+        - Graduated Magna Cum Laude
+
 
 #- title: Experience
 #  type: time_table
@@ -58,17 +65,37 @@
 #      institution: University of Zurich, Zurich, Switzerland
 #      year: 1909 - 1911
 
-#- title: Honors and Awards
-#  type: time_table
-#  contents:
-#    - year: 1921
-#      items: 
-#        - Nobel Prize in Physics 
-#        - Matteucci Medal
-#    - year: 2029
-#      items: 
-#        - Max Planck Medal
-#
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2016
+      items: 
+        - Dean's List 
+        - Invited to the distinguished students' program in CS with full scholarship (accepted) 
+    - year: 2017
+      items: 
+        - Dean's List
+        - Distinguished students' program in CS
+    - year: 2018
+      items: 
+        - Graduated Magna Cum Laude (Bsc.)
+        - Distinguished students' program in CS
+    - year: 2019
+      items: 
+        - Full Msc. scholarship for distinguished students
+        - Rector's Prize
+        - Dean's List
+    - year: 2020
+      items: 
+        - Full Msc. scholarship for distinguished students
+    - year: 2021 
+      items: 
+        - Graduated Magna Cum Laude (Msc.)
+        - Full Msc. scholarship for distinguished students
+
+
+ 
+
 - title: Academic Interests
   type: nested_list
   contents:
