@@ -221,7 +221,7 @@ display_tags: ['ML', 'CS', 'Math', 'twitter', 'formating', 'images', 'links'] # 
 
 scholar:
 
-  last_name: Katzhendler 
+  last_name: [Katzhendler] 
   first_name: [Gal, G.]
 
   style: apa
